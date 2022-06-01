@@ -1,3 +1,3 @@
 # loadingAnimation
 
-[Demo](https://sota-oliver.github.io/loadingAnimation/)
+[Demo](https://sota-oliver.github.io/LoadingAnimation/)
